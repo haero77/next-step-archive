@@ -24,12 +24,12 @@
 
 ### 사내 코드 리뷰 스터디
 
-| 미션     | Pull Request                                                 | 리뷰어 활동 | 피드백 정리 |
-|--------|--------------------------------------------------------------|--------|:-------|
-| 자동차 경주 | https://github.com/talmood/java-racingcar/pull/4             |        |        |
-| 좌표 계산기 | https://github.com/talmood/java-coordinate-playground/pull/5 |        |        |
-| 로또     | https://github.com/talmood/java-lotto/pull/3                 |        |        |
-| 블랙잭    | (Step1) <br> (Step2)                                         |        |        |
+| 미션     | Pull Request                                                 | 리뷰어 활동 |                                                                     피드백 정리                                                                     |
+|--------|--------------------------------------------------------------|--------|:----------------------------------------------------------------------------------------------------------------------------------------------:|
+| 자동차 경주 | https://github.com/talmood/java-racingcar/pull/4             |        |                                                                                                                                                |
+| 좌표 계산기 | https://github.com/talmood/java-coordinate-playground/pull/5 |        |                                                                                                                                                |
+| 로또     | https://github.com/talmood/java-lotto/pull/3                 |        | [피드백](https://github.com/haero77/next-step-archive/blob/main/%ED%94%BC%EB%93%9C%EB%B0%B1/01%20Java%20%EB%AF%B8%EC%85%98/%EB%A1%9C%EB%98%90.md) |
+| 블랙잭    | (Step1) <br> (Step2)                                         |        |                                                                                                                                                |
 
 <br>
 
