@@ -33,9 +33,12 @@
 
 <br>
 
-## 02 학습 테스트로 배우는 스프링
+## 02 학습 테스트로 배우는 Spring
 
-| 미션 | Pull Request | 피드백 정리 |
-|----|--------------|--------|
-|    |              |        |
-|    |              |        |
+### [학습 테스트로 배우는 Spring 3기](https://edu.nextstep.camp/c/X1pbG30l)
+
+| 미션                   | Pull Request           | 피드백 정리 |
+|----------------------|------------------------|--------|
+| Spring Basic - 방탈출 예약 관리 | [1-1단계 - 예약 관리 API](https://github.com/next-step/spring-roomescape-reservation/pull/69) <br> |        |
+| Spring MVC - 사용자 인증  |                        |        |
+| Spring Data JPA - 예약 대기                     |                        |        |
