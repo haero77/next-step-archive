@@ -37,8 +37,8 @@
 
 ### [학습 테스트로 배우는 Spring 3기](https://edu.nextstep.camp/c/X1pbG30l)
 
-| 미션                   | Pull Request           | 피드백 정리 |
-|----------------------|------------------------|--------|
-| Spring Basic - 방탈출 예약 관리 | [1-1단계 - 예약 관리 API](https://github.com/next-step/spring-roomescape-reservation/pull/69) <br> |        |
-| Spring MVC - 사용자 인증  |                        |        |
-| Spring Data JPA - 예약 대기                     |                        |        |
+| 미션                   | Pull Request                                                                                                                 | 피드백 정리 |
+|----------------------|------------------------------------------------------------------------------------------------------------------------------|--------|
+| Spring Basic - 방탈출 예약 관리 | [1-1단계 - 예약 관리 API](https://github.com/next-step/spring-roomescape-reservation/pull/69) <br> [1-2 데이터베이스 적용, 1-3 시간 관리 기능 추가](https://github.com/next-step/spring-roomescape-reservation/pull/105)  |        |
+| Spring MVC - 사용자 인증  |                                                                                                                              |        |
+| Spring Data JPA - 예약 대기                     |                                                                                                                              |        |
