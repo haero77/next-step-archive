@@ -1,10 +1,12 @@
 > 넥스트 스텝 교육 활동을 정리하는 저장소
 
 <!-- TOC -->
-  * [01 자바 플레이그라운드 with TDD, 클린 코드](#01-자바-플레이그라운드-with-tdd-클린-코드)
-    * [우아한테크코스 프리코스 6기](#우아한테크코스-프리코스-6기)
-    * [사내 코드 리뷰 스터디](#사내-코드-리뷰-스터디)
-  * [02 학습 테스트로 배우는 스프링](#02-학습-테스트로-배우는-스프링)
+
+* [01 자바 플레이그라운드 with TDD, 클린 코드](#01-자바-플레이그라운드-with-tdd-클린-코드)
+	* [우아한테크코스 프리코스 6기](#우아한테크코스-프리코스-6기)
+	* [사내 코드 리뷰 스터디](#사내-코드-리뷰-스터디)
+* [02 학습 테스트로 배우는 스프링](#02-학습-테스트로-배우는-스프링)
+
 <!-- TOC -->
 
 <br>
@@ -33,12 +35,12 @@
 
 <br>
 
-## 02 학습 테스트로 배우는 Spring
+## 02 [학습 테스트로 배우는 Spring 3기](https://edu.nextstep.camp/c/X1pbG30l)
 
-### [학습 테스트로 배우는 Spring 3기](https://edu.nextstep.camp/c/X1pbG30l)
+| 미션                                                                                                   | Pull Request                                                                                                                                                                                                                                                                                            | 피드백 정리 |
+|------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| Spring Basic - 방탈출 예약 관리([repo](https://github.com/haero77/next-step-spring-roomescape-reservation)) | - [1-1단계 - 예약 관리 API](https://github.com/next-step/spring-roomescape-reservation/pull/69) <br>- [1-2 데이터베이스 적용, 1-3 시간 관리 기능 추가](https://github.com/next-step/spring-roomescape-reservation/pull/105) <br>- [2단계 테마 관리 기능, 예외 계층화](https://github.com/next-step/spring-roomescape-reservation/pull/112) |        |
+| Spring MVC - 사용자 인증([repo](https://github.com/haero77/next-step-spring-roomescape-auth))                                                                                  | - [1단계 - 로그인 구현](https://github.com/next-step/spring-roomescape-auth/pull/51)                                                                                                                                                                                                                           |        |
+| Spring Data JPA - 예약 대기                                                                              |                                                                                                                                                                                                                                                                                                         |        |
 
-| 미션                   | Pull Request                                                                                                                 | 피드백 정리 |
-|----------------------|------------------------------------------------------------------------------------------------------------------------------|--------|
-| Spring Basic - 방탈출 예약 관리([repo](https://github.com/haero77/next-step-spring-roomescape-reservation)) | [1-1단계 - 예약 관리 API](https://github.com/next-step/spring-roomescape-reservation/pull/69) <br> [1-2 데이터베이스 적용, 1-3 시간 관리 기능 추가](https://github.com/next-step/spring-roomescape-reservation/pull/105)  |        |
-| Spring MVC - 사용자 인증  |                                                                                                                              |        |
-| Spring Data JPA - 예약 대기                     |                                                                                                                              |        |
+## 03 [만들면서 배우는 Spring Security 2기](https://edu.nextstep.camp/c/GUqVYNrn)
